@@ -55,18 +55,19 @@
 ![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/animated.png "animated.png")
 
 
-- 使用效果
+2. 使用效果
 ![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/菜单栏提示.png "菜单栏提示.png")
 
 
 - Siteorigin
 1. 首页换成静态页面，并且添加了SiteOrigin
 
-![输入图片说明](https://gitee.com/hukaif/web_operations/raw/master/images/架站问题.PNG "架站问题.PNG")
+![静态页面](https://gitee.com/hukaif/web_operations/raw/master/images/静态页面.png "静态页面.png")
 
 2. 在云端架站页面添加了搜索栏及近期文章，是想让客户更加快速的找到自己想要的东西，而不用再返回首页去查找。
 
-![输入图片说明](https://gitee.com/hukaif/web_operations/raw/master/images/架站问题.PNG "架站问题.PNG")
+![使用siteorigin](https://gitee.com/hukaif/web_operations/raw/master/images/使用siteorigin.png "使用siteorigin.png")
+![使用siteorigin](https://gitee.com/hukaif/web_operations/raw/master/images/添加搜索框.png "添加搜索框.png")
 
 ***
 
