@@ -27,15 +27,17 @@
 
 
 ###  图片的使用（版权，风格及配色）
-xxxxxx
+### 图片的使用
+ #### 非原创图片
+##### 1.新建“关于我”的页面，声明网站内容来源非原创性。
+![关于我们](https://gitee.com/hukaif/web_operations/raw/master/images/版权说明.PNG "版权说明.PNG")
 
 
-###  云端架站踩坑文章链接
--  http://liaojunjie.me/2019/05/14/question1/
+### 云端架站踩坑图文文章(3篇）
+* [架站教程（一）：WordPress用户注册和发送邮件](http://hukaifeng.me/%e4%ba%91%e7%ab%af%e6%9e%b6%e7%ab%99/wordpress%e6%9e%b6%e7%ab%99%e9%97%ae%e9%a2%98%ef%bc%88%e4%b8%80%ef%bc%89/)
+* [架站教程（二）：申请DigitalOcean的50刀优惠码](http://hukaifeng.me/%e4%ba%91%e7%ab%af%e6%9e%b6%e7%ab%99/wordpress%e6%9e%b6%e7%ab%99%e9%97%ae%e9%a2%98%ef%bc%88%e4%ba%8c%ef%bc%89/)
 
--  http://liaojunjie.me/2019/05/14/question2/
-
--  http://liaojunjie.me/2019/06/19/question3/
+* [架站教程（三）：namecheap域名如何绑定IP](http://hukaifeng.me/%e4%ba%91%e7%ab%af%e6%9e%b6%e7%ab%99/wordpress%e6%9e%b6%e7%ab%99%e9%97%ae%e9%a2%98%ef%bc%88%e4%b8%89%ef%bc%89/)
 
 
 ###  平面设计
@@ -44,6 +46,8 @@ xxxxxx
 - 对比度：适中
 - 可读性：良好
 - 整体风格配置解析：由于网站的主题是新闻，需要比较带有真实感的页面，因此网站主要采用黑白配色。适中的对比度显得我们的网站更加亲切温和，有利于吸引用户，让用户感到舒适。网站整体可读性不错，能够依靠分区设计找到自己想要的内容。
+![图库配色](https://gitee.com/hukaif/web_operations/raw/master/images/架站问题.PNG "架站问题.PNG")
+
 
 #### 2. 插件运用
 - Animate ：
@@ -96,32 +100,24 @@ xxxxxx
 
 ## 4.网站备份
 ####  1.登录winSCP
-
-
 ####  2.将wp-config.php备份到本地
-
+![php](https://gitee.com/hukaif/web_operations/raw/master/images/php.PNG "php.PNG")
 
 
 ####  3.通过插件备份数据库文件（sql文件）
+![插件备份](https://gitee.com/hukaif/web_operations/raw/master/images/插件备份.PNG "插件备份.PNG")
 
-
+![备份结果](https://gitee.com/hukaif/web_operations/raw/master/images/备份结果.PNG "备份结果.PNG")
 
 ####  4.通过WordPress后台导出工具导到本地的文件
-
+![监控地点](https://gitee.com/hukaif/web_operations/raw/master/images/导出.PNG "导出.PNG")
 
 #  三、运营
 
 ###  站长工具
--  百度认证
--  Bing认证
-
-
-
-***
 
 ###  百度——流量截屏
 ![流量截图](https://gitee.com/hukaif/web_operations/raw/master/images/流量截图.png "流量截图.png")
-
 
 ####  成果
 ####  1. 认证后，在百度搜索引擎中可以找到结果：
@@ -195,32 +191,21 @@ xxxxxx
 以下是多篇文章经过SEO部分优化后的情况：
 
 ![SEO后](https://gitee.com/hukaif/web_operations/raw/master/images/SEO后.PNG "SEO后.PNG")
-
-
-
-
-
-
 ***
 
-
 ####  jetpack流量数据
-![jetpack流量统计](https://gitee.com/hukaif/web_operations/raw/master/images/jetpack流量统计.PNG  "jetpack流量统计.PNG")
-
-
-
+![jetpack流量统计](https://gitee.com/hukaif/web_operations/raw/master/images/jetpack.PNG  "jetpack.PNG")
 
 **可以发现，在做出SEO优化后，过了几周里，网站的浏览量逐步上升。 其中，6/17-6/24网站浏览量下降的原因是因为这几天未更新新文章。**
 
 ***
 
 
-
 ##  用户研究成果及设计改进
 
 ####  用户体验地图
 
-![输入图片说明](https://gitee.com/hukaif/web_operations/raw/master/images/meta.png "meta.png")
+![用户体验地图](https://gitee.com/hukaif/web_operations/raw/master/images/用户体验地图.png "用户体验地图.png")
 
 ####  用户访谈
 
@@ -251,9 +236,7 @@ xxxxxx
 ***
 -  图片尺寸不合适，网站背景颜色偏亮，导致字体对比度不够强、色调不搭，影响用户阅读心情；
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0625/205046_1dd5d098_1831480.png "ab4782b6b28d7e50d49f42210f1df10.png")
-
-
+![图片尺寸不合](https://gitee.com/hukaif/web_operations/raw/master/images/图片尺寸不合.PNG "图片尺寸不合.PNG")
 
 
 ####  2.内容
@@ -261,15 +244,8 @@ xxxxxx
 -  网站里的文章建议多添加外链，对于对大数据知识不太熟悉的人有些专业名词可能不太清楚，可以放置外链跳转到百度百科让他们了解；
 
 -  如下图所示：
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0625/205248_7e8d5068_1831480.png "cc466998bf03fbea72edfe1aa0a50c6.png")
+![添加外链](https://gitee.com/hukaif/web_operations/raw/master/images/定制化.PNG "定制化.PNG")
 
-
- 
-####  3.页面布局
-***
--  文章一篇接一篇，显得网站杂乱；
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0625/214104_3963c8ad_1831480.png "d43768e6fc2b9d864f2de6f94d57de8.png")
 
 
 ####  如何影响设计
@@ -282,23 +258,17 @@ xxxxxx
 ####  定制化
 #####  方案1
 - 使用代码，将重点语句以不同的字体颜色和不同字体尺寸突显出来
-![字体调整](https://images.gitee.com/uploads/images/2019/0626/140703_b1df4fd2_1829827.png "字体格式.png")
+![修改字体风格](https://gitee.com/hukaif/web_operations/raw/master/images/修改字体风格.PNG "修改字体风格.PNG")
 
-![字体调整结果](https://images.gitee.com/uploads/images/2019/0626/140725_034b5c3b_1829827.png "调整结果.png")
+![修改字体结果](https://gitee.com/hukaif/web_operations/raw/master/images/修改字体结果.PNG "修改字体结果.PNG")
 ***
 
 #####  方案2
 - 修改图片大小，使图片完美切合文章而不显得突兀。
-![字体调整](https://images.gitee.com/uploads/images/2019/0626/140703_b1df4fd2_1829827.png "字体格式.png")
+![修改图片](https://gitee.com/hukaif/web_operations/raw/master/images/修改图片.PNG "修改图片.PNG")
 
-![字体调整结果](https://images.gitee.com/uploads/images/2019/0626/140725_034b5c3b_1829827.png "调整结果.png")
+![修改图片结果](https://gitee.com/hukaif/web_operations/raw/master/images/修改图片结果.PNG "修改图片结果.PNG")
 ***
-#####  方案3
-- 给文章添加多个外链注释，增强文章可读性 。
-![字体调整](https://images.gitee.com/uploads/images/2019/0626/140703_b1df4fd2_1829827.png "字体格式.png")
-
-![字体调整结果](https://images.gitee.com/uploads/images/2019/0626/140725_034b5c3b_1829827.png "调整结果.png")
-
 
 
 
