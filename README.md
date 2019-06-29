@@ -50,13 +50,21 @@
 
 
 #### 2. 插件运用
-- Animate ：
-（1）网站侧边栏中的小工具近期文章栏添加了 animated bounce duration的动画。
+- Animate it! 
+1. 在导航菜单栏添加了【  animated shake duration4 eds-on-click  】，是因为想让用户知道当他们悬停在导航菜单栏的时候，可以显示文章标题，达到预览效果。
+![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/animated it.PNG "animated it.PNG")
+![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/菜单栏提示.png "菜单栏提示.png")
 
-- SiteOrigin：
-（1）在网站的分页面中有使用到此功能，并通过此功能建立页面与文章之间的联系，使得可以从页面跳转到文章内容。
-（2）在网站首页中设置
-（3）在网站地图中设置
+
+- Siteorigin
+1. 首页换成静态页面，并且添加了SiteOrigin
+
+![输入图片说明](https://gitee.com/hukaif/web_operations/raw/master/images/架站问题.PNG "架站问题.PNG")
+
+2. 在云端架站页面添加了搜索栏及近期文章，是想让客户更加快速的找到自己想要的东西，而不用再返回首页去查找。
+
+![输入图片说明](https://gitee.com/hukaif/web_operations/raw/master/images/架站问题.PNG "架站问题.PNG")
+
 ***
 
 # 二、管理
