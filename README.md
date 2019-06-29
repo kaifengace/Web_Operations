@@ -52,7 +52,10 @@
 #### 2. 插件运用
 - Animate it! 
 1. 在导航菜单栏添加了【  animated shake duration4 eds-on-click  】，是因为想让用户知道当他们悬停在导航菜单栏的时候，可以显示文章标题，达到预览效果。
-![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/animated it.PNG "animated it.PNG")
+![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/animated.png "animated.png")
+
+
+- 使用效果
 ![Animate it](https://gitee.com/hukaif/web_operations/raw/master/images/菜单栏提示.png "菜单栏提示.png")
 
 
